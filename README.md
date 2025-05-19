@@ -107,10 +107,6 @@ Key components:
 
 ## Visualizations
 
-**Feature Distributions:**
-
-![](./images/feature_distributions.png)
-
 **Correlation Matrix:**
 
 ![](./images/corr_output.png)
