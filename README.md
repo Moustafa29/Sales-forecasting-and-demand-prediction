@@ -34,7 +34,11 @@ Key components:
 │   └── walmart2.py                 # Main Streamlit application file
 │
 ├── images/                         # Visualization outputs and application screenshots
-│   ├── Sales_forcasting_streamlit.png         # Screenshot of the Streamlit app interface
+│   ├── streamlit1.jpeg
+|   ├── streamlit2.jpeg  
+|   ├── streamlit3.jpeg
+|   ├── streamlit4.jpeg      # Screenshots of the Streamlit app interface
+|   ├── meta_sample_pred.png   # Sample Prediction Test of meta model
 │   ├── Gradient_classifier_cm_output.png     # Confusion matrix for Gradient Boosting classifier
 │   ├── XGBoost_eva_output.png                # Evaluation plots for XGBoost regressor
 │   ├── sales_Bystore_plot.png                # Sales distribution across stores
